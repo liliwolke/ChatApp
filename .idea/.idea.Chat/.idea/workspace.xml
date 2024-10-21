@@ -10,9 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79e46e00-0e63-4534-b4df-e12790a9c0ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chat/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="79e46e00-0e63-4534-b4df-e12790a9c0ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,6 +165,7 @@
       <workItem from="1729537581588" duration="693000" />
       <workItem from="1729538348788" duration="437000" />
       <workItem from="1729538800805" duration="1119000" />
+      <workItem from="1729540631435" duration="149000" />
     </task>
     <task id="LOCAL-00001" summary="Создание проекта">
       <option name="closed" value="true" />
